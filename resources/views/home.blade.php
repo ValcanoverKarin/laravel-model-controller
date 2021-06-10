@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>ciao sono la home</h1>
+    {{ dd($movies) }}
 </body>
 </html>
