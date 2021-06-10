@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>ciao sono la home</h1>
+    <h1>Movies</h1>
 
     <ul>
         @foreach ($movies as $movie)
